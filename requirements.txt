@@ -1,0 +1,7 @@
+requests
+jupyter
+pandas
+scikit-learn
+imbalanced-learn
+bokeh
+holoviews
